@@ -6,4 +6,5 @@ Fake news detection using PassiveAggressiveClassifier from sklearn
 2. Change the location of your csv file with fake news
 3. Launch the notebook
 
-![изображение](https://github.com/user-attachments/assets/a756764d-6056-4c1d-9877-b02bff7614fb)
+![Без имени](https://github.com/user-attachments/assets/67aeda4e-5848-46c3-bf0a-6e9e62345a33)
+
